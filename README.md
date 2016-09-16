@@ -20,6 +20,13 @@ The dimensions of information are:
 | Availability     | Fault Tolerance, scalability, clustering
 | Integrity        | Tamper evidence, authenticity
 
+- Caching
+- Resilience
+- Rest APIS
+- Performance
+- Laod testing
+- Monitoring
+
 
 
 # TODO
